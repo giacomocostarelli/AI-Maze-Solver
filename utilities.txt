@@ -1,0 +1,3 @@
+#Useful SWI-Prolog lines.#
+consult("C:/Users/Giacomo/swipl/demo/ProveProlog/iterative_deepening_search.pl").
+set_prolog_flag(answer_write_options,[max_depth(0)]).
